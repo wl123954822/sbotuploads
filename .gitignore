@@ -33,3 +33,7 @@ build/
 .DS_Store
 Thumbs.db
 /blog.iml
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+mvnw
+mvnw.cmd
